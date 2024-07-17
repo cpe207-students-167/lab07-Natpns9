@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : ปณิษา ปัถะพี
 
-GitHub Page URL : 
+GitHub Page URL : https://github.com/cpe207-students-167/lab07-Natpns9
 
 ---
 
