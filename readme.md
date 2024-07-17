@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : ปณิษา ปัถะพี
 
-GitHub Page URL : https://cpe207.github.io/lab07-Natpns9/index.html
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-Natpns9/
 ---
 
 ให้นักศึกษาสร้างหน้าเว็บ frontend สำหรับการใช้ลงทะเบียนอย่างง่ายด้วยความรู้เรื่อง HTML, CSS และ JavaScript ตามรายละเอียดด้านล่างนี้
